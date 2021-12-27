@@ -1,1 +1,1 @@
-# CSE-1002-Projects
+# Introduction To Software Development in C
